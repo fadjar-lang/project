@@ -9,4 +9,4 @@ rencana fitur baru
 -fitur bersama
 -oke gan
 -menambah crud
--menambahkan
+-menambahkan delete
