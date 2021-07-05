@@ -3,3 +3,4 @@ rencana fitur baru
 -membuat login laravel
 -membuat fitur animasi
 -membuat fitur pencarian
+-membuat fitur
