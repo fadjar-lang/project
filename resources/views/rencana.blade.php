@@ -4,6 +4,6 @@ rencana fitur baru
 -membuat fitur animasi
 -membuat fitur pencarian
 -membuat fitur
--fitur fitur
--fitur kita
--fitur anda
+-ini adalah fitur gas
+-fitur pengembangan
+-fitur bersama
