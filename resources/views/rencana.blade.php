@@ -4,3 +4,4 @@ rencana fitur baru
 -membuat fitur animasi
 -membuat fitur pencarian
 -membuat fitur
+-ini adalah fitur gas
