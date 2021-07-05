@@ -6,3 +6,4 @@ rencana fitur baru
 -membuat fitur
 -ini adalah fitur gas
 -fitur pengembangan
+-fitur bersama
