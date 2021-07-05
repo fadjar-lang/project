@@ -6,3 +6,4 @@ rencana fitur baru
 -membuat fitur
 -fitur fitur
 -fitur kita
+-fitur anda
