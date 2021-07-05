@@ -7,3 +7,4 @@ rencana fitur baru
 -ini adalah fitur gas
 -fitur pengembangan
 -fitur bersama
+-oke bos
