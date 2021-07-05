@@ -8,3 +8,4 @@ rencana fitur baru
 -fitur pengembangan
 -fitur bersama
 -oke gan
+-menambah crud
