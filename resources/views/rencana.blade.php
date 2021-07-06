@@ -10,3 +10,4 @@ rencana fitur baru
 -oke gan
 -menambah crud
 -menambahkan delete
+-cherry pick
