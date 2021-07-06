@@ -12,3 +12,4 @@ rencana fitur baru
 -menambahkan delete
 -cherry pick
 -cherry 2
+-git rebases
