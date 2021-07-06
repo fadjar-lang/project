@@ -11,3 +11,4 @@ rencana fitur baru
 -menambah crud
 -menambahkan delete
 -cherry pick
+-cherry 2
