@@ -10,6 +10,3 @@ rencana fitur baru
 -oke gan
 -menambah crud
 -menambahkan delete
--cherry pick
--cherry 2
--git rebases
